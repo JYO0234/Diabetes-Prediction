@@ -18,3 +18,4 @@ class parrot:
 
         blu=parrot("monu","blue")
         print(blu.name)
+        print("self.inn")
